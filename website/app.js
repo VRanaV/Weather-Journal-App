@@ -1,5 +1,5 @@
 /* Global Variables */
-const APIkey ="283ceb780f8f941cc35a9624bf621158";
+const APIkey ="can't share for security policy";
 const APIname= "weather";
 const ZipCode=document.querySelector('#zip');
 const CountryCode = document.querySelector('#code');
